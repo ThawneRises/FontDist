@@ -54,7 +54,7 @@ FontCraft-Assets/
 | [fonts.json](fonts.json) | Module/WebUI API endpoint | Structured JSON |
 | [Preview.md](Preview.md) | Visual catalog | Markdown with images |
 
-> **Note**: Main Module: [FontCraft](https://github.com/Ripper_Hybrid/FontCraft.git) on GitHub. 
+> **Note**: Main Module: [FontCraft](https://github.com/RipperHybrid/FontCraft.git) on GitHub. 
 
 ## 🔗 Credits & Attributions
 
