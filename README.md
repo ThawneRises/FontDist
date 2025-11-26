@@ -27,9 +27,6 @@ FontCraft-Assets/
 │├── font.ttf          # Font file (.ttf or .otf)
 │└── preview.png       # Style preview
 │
-├──template/                 # Folder to store template for webui
-│└── template.zip          # Template for webui module creation
-│
 ├──fonts.json                # AUTO-GENERATED: Module & WebUI API Metadata
 ├──Preview.md                # AUTO-GENERATED: Visual Catalog
 └──.github/workflows/        # Automation Scripts
@@ -57,20 +54,12 @@ FontCraft-Assets/
 | [fonts.json](fonts.json) | Module/WebUI API endpoint | Structured JSON |
 | [Preview.md](Preview.md) | Visual catalog | Markdown with images |
 
-> **Note**: Main Module: FontCraft on GitHub - The account which has the module is suspended for now.
+> **Note**: Main Module: [FontCraft](https://github.com/Ripper_Hybrid/FontCraft.git) on GitHub. 
 
 ## 🔗 Credits & Attributions
 
-### 🛠️ Tools & Binaries
-- **jq Binary** – [jq](https://jqlang.org) `# Stored in template zip`
-- **zip Binary** – [zip](https://infozip.sourceforge.net) `# Stored in template zip`
-
-### 🎨 Assets & Fonts
-- **Emoji Packs** – Various emoji sets including WhatsApp, iOS, Samsung emojis
-- **Font Collections** – Fonts from multiple creators and foundries
-
 > **Note**: All fonts and emojis belong to their respective creators. This repository acts as a distribution point for legally shareable assets. If you're a copyright holder and wish to have your content removed, please contact the maintainer.
 
-## 👨‍💻 Maintainer
+## 👨‍💻 Maintainer Of Assets Library
 
-- **AshBorn** – [@Ripper_Hybrid](https://t.me/Ripper_Hybrid)
+- **Thawne** – [@Reverse0ne](https://t.me/Reverse0ne)
