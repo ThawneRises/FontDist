@@ -72,10 +72,14 @@ jobs:
                       
                       files_list = []
                       for f in scan_fonts:
+                          file_path = os.path.join(folder_path, f)
+                          file_size = os.path.getsize(file_path) # Gets the file size in bytes
                           raw_url = f"{base_url}/{quote(f'{category}/{folder}/{f}')}"
+                          
                           files_list.append({
                               "filename": f,
-                              "download_url": raw_url
+                              "download_url": raw_url,
+                              "size_bytes": file_size
                           })
 
                       scan_imgs = [
@@ -114,8 +118,8 @@ jobs:
           
           git add fonts.json Preview.md
           
-          git commit -m "Auto-update Font metadata & Preview" || echo "No changes to commit"
+          git commit -m "Auto-update Font metadata & Preview [skip ci]" || echo "No changes to commit"
           
-          git push https://x-access-token:${{ secrets.FONT }}@github.com/${{ github.repository }}.git HEAD:${{ github.ref_name }} || echo "No changes to push"
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:${{ github.ref_name }} || echo "No changes to push"
         env:
-          FONT: ${{ secrets.FONT }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
