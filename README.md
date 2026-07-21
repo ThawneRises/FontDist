@@ -1,7 +1,19 @@
 # 🎨 FontCraft Assets Library
 
-> **Central Asset Repository for FontCraft Module**  
+> **Central Asset Repository for FontCraft Module**
 > Your dynamic font and emoji library for seamless WebUI integration.
+
+<div align="center">
+
+[![Last Commit](https://img.shields.io/github/last-commit/ThawneRises/FontDist)](https://github.com/ThawneRises/FontDist/commits/Master) [![Build Status](https://github.com/ThawneRises/FontDist/actions/workflows/reconfigure.yml/badge.svg)](https://github.com/ThawneRises/FontDist/actions/workflows/reconfigure.yml)
+
+<br>
+
+**[ 📖 View Visual Catalog ](Preview.md)** &nbsp;&nbsp;•&nbsp;&nbsp; **[ ⚡ Main FontCraft Module ](https://github.com/RipperHybrid/FontCraft.git)**
+
+</div>
+
+---
 
 This repository serves as the remote asset database for the **FontCraft** module, hosting font files, emoji packs, and metadata that enable dynamic fetching and display within the WebUI.
 
@@ -14,22 +26,21 @@ This repository serves as the remote asset database for the **FontCraft** module
 
 ## 📁 Repository Structure
 
-```
-
-FontCraft-Assets/
-├──Emoji/                    # Emoji Packs & Icon Fonts
-│└── [Emoji Pack Name]/
-│├── font.ttf          # Font file (.ttf or .otf)
-│└── preview.png       # Visual preview
+```text
+FontDist/
+├── Emoji/                   # Emoji Packs & Icon Fonts
+│   └── [Emoji Pack Name]/
+│       ├── font.ttf         # Font file (.ttf or .otf)
+│       └── preview.png      # Visual preview
 │
-├──Fonts/                    # System & Display Fonts
-│└── [Font Family Name]/
-│├── font.ttf          # Font file (.ttf or .otf)
-│└── preview.png       # Style preview
+├── Fonts/                   # System & Display Fonts
+│   └── [Font Family Name]/
+│       ├── font.ttf         # Font file (.ttf or .otf)
+│       └── preview.png      # Style preview
 │
-├──fonts.json                # AUTO-GENERATED: Module & WebUI API Metadata
-├──Preview.md                # AUTO-GENERATED: Visual Catalog
-└──.github/workflows/        # Automation Scripts
+├── fonts.json               # AUTO-GENERATED: Module & WebUI API Metadata
+├── Preview.md               # AUTO-GENERATED: Visual Catalog
+└── .github/workflows/       # Automation Scripts
 
 ```
 
@@ -38,11 +49,13 @@ FontCraft-Assets/
 ### 🤖 How It Works
 
 **Workflow Triggers:**
-- Push to `Master` branch (excluding metadata files)
-- Manual trigger via `workflow_dispatch`
-- Modifications to `Fonts/` or `Emoji/` directories
+
+* Push to `Master` branch (excluding metadata files)
+* Manual trigger via `workflow_dispatch`
+* Modifications to `Fonts/` or `Emoji/` directories
 
 **Automation Process:**
+
 1. **Scan**: Recursively searches for `.ttf`, `.otf`, and `.png` files
 2. **Generate**: Creates structured JSON API and visual catalog
 3. **Deploy**: Automatically commits updated metadata back to repository
@@ -50,16 +63,12 @@ FontCraft-Assets/
 ### 📊 Generated Files
 
 | File | Purpose | Format |
-|------|---------|---------|
-| [fonts.json](fonts.json) | Module/WebUI API endpoint | Structured JSON |
+| --- | --- | --- |
+| [fonts.json](https://www.google.com/search?q=fonts.json) | Module/WebUI API endpoint | Structured JSON |
 | [Preview.md](Preview.md) | Visual catalog | Markdown with images |
 
-> **Note**: Main Module: [FontCraft](https://github.com/RipperHybrid/FontCraft.git) on GitHub. 
+> **Note**: Main Module: [FontCraft](https://github.com/RipperHybrid/FontCraft.git) on GitHub.
 
 ## 🔗 Credits & Attributions
 
 > **Note**: All fonts and emojis belong to their respective creators. This repository acts as a distribution point for legally shareable assets. If you're a copyright holder and wish to have your content removed, please contact the maintainer.
-
-## 👨‍💻 Maintainer Of Assets Library
-
-- **Thawne** – [@Reverse0ne](https://t.me/Reverse0ne)

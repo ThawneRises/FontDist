@@ -1,4 +1,4 @@
-name: Reconfigure Fonts & Preview
+name: Reconfigure Preview
 
 on:
   push:
@@ -57,6 +57,8 @@ jobs:
               if not os.path.isdir(category_path):
                   continue
 
+              md_content += f"<details>\n<summary><b>{category}</b></summary>\n\n"
+
               data[category] = {}
 
               for folder in sorted(os.listdir(category_path), key=str.lower):
@@ -101,6 +103,8 @@ jobs:
                               "preview": preview_url,
                               "files": files_list
                           }
+
+              md_content += "</details>\n\n"
 
           with open(output_json, "w") as json_file:
               json.dump(data, json_file, indent=2)
