@@ -1,4 +1,4 @@
-name: Reconfigure Preview
+name: Reconfigure
 
 on:
   push:
