@@ -19,10 +19,36 @@ This repository serves as the remote asset database for the **FontCraft** module
 
 ## 🚀 Why Separate Assets?
 
-- **Lightweight Installation**: Keep the main module zip small and efficient
-- **Infinite Expansion**: Add unlimited fonts/emojis without module updates
-- **Dynamic Updates**: Assets become available immediately to all users
-- **Centralized Management**: Single source of truth for all font assets
+- **Lightweight Installation**: Keep the main module zip small and efficient.
+- **Infinite Expansion**: Add unlimited fonts/emojis without module updates.
+- **Dynamic Updates**: Assets become available immediately to all users.
+- **Centralized Management**: Single source of truth for all font assets.
+
+## ⚡ Automated Metadata System
+
+### 🤖 How It Works
+
+**Workflow Triggers:**
+* Push to `Master` branch (excluding auto-generated tracking files).
+* Manual trigger via `workflow_dispatch`.
+* Modifications to `Fonts/` or `Emoji/` directories.
+
+**Automation Process:**
+1. **Verify**: Recursively scans and checks for new or modified `.ttf` assets.
+2. **Patch**: Automatically runs FontForge to inject missing UI glyphs into unpatched fonts.
+3. **Render**: Utilizes Skia and Pillow to generate crisp `.png` visual previews for each font.
+4. **Generate**: Creates the structured JSON API and the visual Markdown catalog.
+5. **Deploy**: Commits the generated preview images, updated `patched.json`, and metadata back to the repository.
+
+### 📊 Generated Files
+
+| File | Purpose | Format |
+| --- | --- | --- |
+| [fonts.json](fonts.json) | Module / WebUI API endpoint | Structured JSON |
+| [patched.json](patched.json) | Tracks glyph patching states to prevent redundant builds | JSON |
+| [Preview.md](Preview.md) | Visual catalog | Markdown with images |
+
+> **Note**: Main Module: [FontCraft](https://github.com/RipperHybrid/FontCraft.git) on GitHub.
 
 ## 📁 Repository Structure
 
@@ -30,45 +56,20 @@ This repository serves as the remote asset database for the **FontCraft** module
 FontDist/
 ├── Emoji/                   # Emoji Packs & Icon Fonts
 │   └── [Emoji Pack Name]/
-│       ├── font.ttf         # Font file (.ttf or .otf)
-│       └── preview.png      # Visual preview
+│       └── font.ttf         # Font file (PNG auto-generates)
 │
 ├── Fonts/                   # System & Display Fonts
 │   └── [Font Family Name]/
-│       ├── font.ttf         # Font file (.ttf or .otf)
-│       └── preview.png      # Style preview
+│       └── font.ttf         # Font file (PNG auto-generates)
 │
-├── fonts.json               # AUTO-GENERATED: Module & WebUI API Metadata
-├── Preview.md               # AUTO-GENERATED: Visual Catalog
+├── fonts.json               # Module & WebUI API Metadata
+├── patched.json             # Patching State Tracker
+├── Preview.md               # Visual Catalog
 └── .github/workflows/       # Automation Scripts
 
 ```
 
-## ⚡ Automated Metadata System
-
-### 🤖 How It Works
-
-**Workflow Triggers:**
-
-* Push to `Master` branch (excluding metadata files)
-* Manual trigger via `workflow_dispatch`
-* Modifications to `Fonts/` or `Emoji/` directories
-
-**Automation Process:**
-
-1. **Scan**: Recursively searches for `.ttf`, `.otf`, and `.png` files
-2. **Generate**: Creates structured JSON API and visual catalog
-3. **Deploy**: Automatically commits updated metadata back to repository
-
-### 📊 Generated Files
-
-| File | Purpose | Format |
-| --- | --- | --- |
-| [fonts.json](https://www.google.com/search?q=fonts.json) | Module/WebUI API endpoint | Structured JSON |
-| [Preview.md](Preview.md) | Visual catalog | Markdown with images |
-
-> **Note**: Main Module: [FontCraft](https://github.com/RipperHybrid/FontCraft.git) on GitHub.
-
 ## 🔗 Credits & Attributions
 
-> **Note**: All fonts and emojis belong to their respective creators. This repository acts as a distribution point for legally shareable assets. If you're a copyright holder and wish to have your content removed, please contact the maintainer.
+> [!note]
+> All fonts and emojis belong to their respective creators. This repository acts as a distribution point for legally shareable assets. The automated patching process does not claim ownership or alter the original font's identity. If you're a copyright holder and wish to have your content removed, please contact the maintainer on Telegram.
