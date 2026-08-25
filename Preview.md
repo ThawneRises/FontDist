@@ -155,9 +155,6 @@
 ### Riviera
 - <img src="https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/Riviera/Riviera.png" width="200px" alt="Riviera">
 
-### Roboto-Regular
-- <img src="https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/Roboto-Regular/Roboto-Regular.png" width="200px" alt="Roboto-Regular">
-
 ### Rosemary
 - <img src="https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/Rosemary/Rosemary.png" width="200px" alt="Rosemary">
 
@@ -175,6 +172,9 @@
 
 ### TheConfession
 - <img src="https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/TheConfession/TheConfession.png" width="200px" alt="TheConfession">
+
+### Ubuntu
+- <img src="https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/Ubuntu/Ubuntu.png" width="200px" alt="Ubuntu">
 
 ### WaltDisney
 - <img src="https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/WaltDisney/WaltDisney.png" width="200px" alt="WaltDisney">
