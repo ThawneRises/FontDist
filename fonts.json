@@ -1,0 +1,633 @@
+{
+  "Emoji": {
+    "BlobEmoji": {
+      "preview": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Emoji/BlobEmoji/Blobmoji_17r1.png",
+      "files": [
+        {
+          "filename": "Blobmoji_17r1.ttf",
+          "download_url": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Emoji/BlobEmoji/Blobmoji_17r1.ttf",
+          "size_bytes": 9733936,
+          "sha256": "b15dde21ad0db02187c688ff7e36f667155e6c0dff3536400e0083ed19871044"
+        }
+      ]
+    },
+    "Facebook": {
+      "preview": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Emoji/Facebook/Facebook_16.0.png",
+      "files": [
+        {
+          "filename": "Facebook_16.0.ttf",
+          "download_url": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Emoji/Facebook/Facebook_16.0.ttf",
+          "size_bytes": 39385824,
+          "sha256": "cbc3cd1cf0a45518645edb8c36424253f48b1e9f7a4566564c01af32f9bbc2bb"
+        }
+      ]
+    },
+    "FluentUI": {
+      "preview": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Emoji/FluentUI/FluentUI_16.0.png",
+      "files": [
+        {
+          "filename": "FluentUI_16.0.ttf",
+          "download_url": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Emoji/FluentUI/FluentUI_16.0.ttf",
+          "size_bytes": 25207620,
+          "sha256": "38486aa7e7ba423c4acaf6556126d7c793680e5b63c78687b29d2c2f741a90e1"
+        }
+      ]
+    },
+    "Ios": {
+      "preview": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Emoji/Ios/iOS26_v14.png",
+      "files": [
+        {
+          "filename": "iOS26_v14.ttf",
+          "download_url": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Emoji/Ios/iOS26_v14.ttf",
+          "size_bytes": 35321980,
+          "sha256": "f06ab19cd58f6c42ee7e367205e54dd7931c1344b641b977a415a279cf11319f"
+        }
+      ]
+    },
+    "JoyPixel": {
+      "preview": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Emoji/JoyPixel/JoyPixel_10.png",
+      "files": [
+        {
+          "filename": "JoyPixel_10.ttf",
+          "download_url": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Emoji/JoyPixel/JoyPixel_10.ttf",
+          "size_bytes": 27536976,
+          "sha256": "f4fca7e5579b86cf721d30918f0d315906a2dc24dd5006121eca2f30924a3c9c"
+        }
+      ]
+    },
+    "LG": {
+      "preview": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Emoji/LG/LG_u14.png",
+      "files": [
+        {
+          "filename": "LG_u14.ttf",
+          "download_url": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Emoji/LG/LG_u14.ttf",
+          "size_bytes": 23440092,
+          "sha256": "b13e2b8d69342ab3f0d4b7d9574e1ee9cc3fa4838f0d21d79d32841bd835c027"
+        }
+      ]
+    },
+    "NotoColorEmoji": {
+      "preview": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Emoji/NotoColorEmoji/NotoColorEmoji.png",
+      "files": [
+        {
+          "filename": "NotoColorEmoji.ttf",
+          "download_url": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Emoji/NotoColorEmoji/NotoColorEmoji.ttf",
+          "size_bytes": 41270076,
+          "sha256": "251ddb56c5f9637d1b4e0e3ae18e2a02e758e5497fd1f9ba34db3131871d5c79"
+        }
+      ]
+    },
+    "OpenEmoji": {
+      "preview": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Emoji/OpenEmoji/Openmoji_16.0.png",
+      "files": [
+        {
+          "filename": "Openmoji_16.0.ttf",
+          "download_url": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Emoji/OpenEmoji/Openmoji_16.0.ttf",
+          "size_bytes": 11031324,
+          "sha256": "09ce54e3f2eeb7f4e97a14394625cb131431a19128004e2b2ec4937c9a5f1b19"
+        }
+      ]
+    },
+    "SamsungOneUi5": {
+      "preview": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Emoji/SamsungOneUi5/SamsungOneUI5_beta4.png",
+      "files": [
+        {
+          "filename": "SamsungOneUI5_beta4.ttf",
+          "download_url": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Emoji/SamsungOneUi5/SamsungOneUI5_beta4.ttf",
+          "size_bytes": 15665612,
+          "sha256": "919c237cf7be875f7fe01621d320cc80a76aeeeca83dc60833b91af61a09c762"
+        }
+      ]
+    },
+    "SamsungOneUi8": {
+      "preview": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Emoji/SamsungOneUi8/OneUI8.5_v15.png",
+      "files": [
+        {
+          "filename": "OneUI8.5_v15.ttf",
+          "download_url": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Emoji/SamsungOneUi8/OneUI8.5_v15.ttf",
+          "size_bytes": 20524944,
+          "sha256": "650e1d7cfa34c6bb42283625b8da4cc4e87227dc9bc441bee66479062ad90d5c"
+        }
+      ]
+    },
+    "Twemoji": {
+      "preview": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Emoji/Twemoji/Twemoji_16.0.1.png",
+      "files": [
+        {
+          "filename": "Twemoji_16.0.1.ttf",
+          "download_url": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Emoji/Twemoji/Twemoji_16.0.1.ttf",
+          "size_bytes": 8938468,
+          "sha256": "16d65c97630b24c220c79f16e92f9bc27c5a781aa7769fa367df000b070acab4"
+        }
+      ]
+    },
+    "Whatsapp": {
+      "preview": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Emoji/Whatsapp/WhatsApp_2.26.8.72.png",
+      "files": [
+        {
+          "filename": "WhatsApp_2.26.8.72.ttf",
+          "download_url": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Emoji/Whatsapp/WhatsApp_2.26.8.72.ttf",
+          "size_bytes": 35354732,
+          "sha256": "c151108bb31e54eaa00b5ad026b5c5c670074113e22a7882b66b2d676c032afa"
+        }
+      ]
+    }
+  },
+  "Fonts": {
+    "Ablax": {
+      "preview": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/Ablax/Ablax.png",
+      "files": [
+        {
+          "filename": "Ablax.ttf",
+          "download_url": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/Ablax/Ablax.ttf",
+          "size_bytes": 657020,
+          "sha256": "0a63176660bf5136ae410be5bbaa44a831e712aa4377dbb5c614e72b86bb024f"
+        }
+      ]
+    },
+    "Accuratist": {
+      "preview": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/Accuratist/Accuratist.png",
+      "files": [
+        {
+          "filename": "Accuratist.ttf",
+          "download_url": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/Accuratist/Accuratist.ttf",
+          "size_bytes": 622796,
+          "sha256": "a7f9ed170a5cd02b13153d9c2a29d936eae57f0067fe2145f143d6582f479e28"
+        }
+      ]
+    },
+    "ActionMan": {
+      "preview": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/ActionMan/ActionMan.png",
+      "files": [
+        {
+          "filename": "ActionMan.ttf",
+          "download_url": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/ActionMan/ActionMan.ttf",
+          "size_bytes": 2405828,
+          "sha256": "7c57859d806027d73c20d00959875235cba4d48363fc45059cf2587ebf9e530b"
+        }
+      ]
+    },
+    "Beauty": {
+      "preview": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/Beauty/Beauty.png",
+      "files": [
+        {
+          "filename": "Beauty.ttf",
+          "download_url": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/Beauty/Beauty.ttf",
+          "size_bytes": 391076,
+          "sha256": "265683c323e7c2f175f7be15e7537d67317bee9f8f6615f172dcaa227253e172"
+        }
+      ]
+    },
+    "Biko": {
+      "preview": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/Biko/Biko.png",
+      "files": [
+        {
+          "filename": "Biko.ttf",
+          "download_url": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/Biko/Biko.ttf",
+          "size_bytes": 630312,
+          "sha256": "c718402e2ea874342c9dc9eb9551a07601b26225e7c88876ee300b052bbc26ee"
+        }
+      ]
+    },
+    "Brandayolq": {
+      "preview": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/Brandayolq/Brandayolq.png",
+      "files": [
+        {
+          "filename": "Brandayolq.ttf",
+          "download_url": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/Brandayolq/Brandayolq.ttf",
+          "size_bytes": 675748,
+          "sha256": "df0d67950c6101351960c062e9233ba3eb65a1298532d209927aa6671d209cb7"
+        }
+      ]
+    },
+    "Cagliostro": {
+      "preview": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/Cagliostro/Cagliostro.png",
+      "files": [
+        {
+          "filename": "Cagliostro.ttf",
+          "download_url": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/Cagliostro/Cagliostro.ttf",
+          "size_bytes": 621520,
+          "sha256": "a4dcdaf88a561df59c93024af5232c43159f2a730640a6f7b787cf7e7684547b"
+        }
+      ]
+    },
+    "Chococooky": {
+      "preview": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/Chococooky/Chococooky.png",
+      "files": [
+        {
+          "filename": "Chococooky.ttf",
+          "download_url": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/Chococooky/Chococooky.ttf",
+          "size_bytes": 678624,
+          "sha256": "74f3a7f5f135434c0fccbd288f77a2ac75ab1c8395d90f3d534cee19d1fc634e"
+        }
+      ]
+    },
+    "Cocon": {
+      "preview": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/Cocon/Cocon.png",
+      "files": [
+        {
+          "filename": "Cocon.ttf",
+          "download_url": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/Cocon/Cocon.ttf",
+          "size_bytes": 614796,
+          "sha256": "c1f6caae06d4ccd1f7f1f19f566dfa3990b3ddcad8c21890f87a0a51ca14d6cb"
+        }
+      ]
+    },
+    "ComicBook": {
+      "preview": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/ComicBook/ComicBook.png",
+      "files": [
+        {
+          "filename": "ComicBook.ttf",
+          "download_url": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/ComicBook/ComicBook.ttf",
+          "size_bytes": 618716,
+          "sha256": "c1cc0083590232001093c27c6a47f42fd008daf4300c195abc7991f1959e587b"
+        }
+      ]
+    },
+    "ComingSoon": {
+      "preview": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/ComingSoon/ComingSoon.png",
+      "files": [
+        {
+          "filename": "ComingSoon.ttf",
+          "download_url": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/ComingSoon/ComingSoon.ttf",
+          "size_bytes": 428392,
+          "sha256": "82ceebcf92ed55fee27f8b794504a05e348810058a19e070b27f3978bc2a5c92"
+        }
+      ]
+    },
+    "CookieRun": {
+      "preview": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/CookieRun/CookieRun.png",
+      "files": [
+        {
+          "filename": "CookieRun.ttf",
+          "download_url": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/CookieRun/CookieRun.ttf",
+          "size_bytes": 2469500,
+          "sha256": "dcf2cd28dd5f2ac20441cedece1cd15758719cc1ea9fb4de1700afe1aad80cb6"
+        }
+      ]
+    },
+    "Cooljazz": {
+      "preview": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/Cooljazz/Cooljazz.png",
+      "files": [
+        {
+          "filename": "Cooljazz.ttf",
+          "download_url": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/Cooljazz/Cooljazz.ttf",
+          "size_bytes": 2446376,
+          "sha256": "3570afc281a0904f153b88dfb75f4cf07b97f9b30aa5a5a7af3f8b893a1acc82"
+        }
+      ]
+    },
+    "CoolStory": {
+      "preview": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/CoolStory/CoolStory.png",
+      "files": [
+        {
+          "filename": "CoolStory.ttf",
+          "download_url": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/CoolStory/CoolStory.ttf",
+          "size_bytes": 636304,
+          "sha256": "3dfb34e91e56c427e10e64c9a981bf0b47066e279a0c281403533b84ee22e396"
+        }
+      ]
+    },
+    "EvolveSans": {
+      "preview": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/EvolveSans/EvolveSans.png",
+      "files": [
+        {
+          "filename": "EvolveSans.ttf",
+          "download_url": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/EvolveSans/EvolveSans.ttf",
+          "size_bytes": 441072,
+          "sha256": "2d69093babaad68b1e3f8d13fab4f378b9f14c284521147e806f958bff47f325"
+        }
+      ]
+    },
+    "Exotwo": {
+      "preview": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/Exotwo/ExoTwo.png",
+      "files": [
+        {
+          "filename": "ExoTwo.ttf",
+          "download_url": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/Exotwo/ExoTwo.ttf",
+          "size_bytes": 611048,
+          "sha256": "f827ac16462bd065eb887d8fb19a29f5ba647aae64520d6203f4143dbf49a114"
+        }
+      ]
+    },
+    "Flow": {
+      "preview": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/Flow/Flow.png",
+      "files": [
+        {
+          "filename": "Flow.ttf",
+          "download_url": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/Flow/Flow.ttf",
+          "size_bytes": 563888,
+          "sha256": "dcf1d2944eaea3ebd8e0c6ada788a1d6198eb4f91b1edc622d721218adecf3b2"
+        }
+      ]
+    },
+    "GoogleSans": {
+      "preview": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/GoogleSans/GoogleSans.png",
+      "files": [
+        {
+          "filename": "GoogleSans.ttf",
+          "download_url": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/GoogleSans/GoogleSans.ttf",
+          "size_bytes": 589732,
+          "sha256": "f3b763e3295a4deed0bd2d6fd0b1457f44a97f6a1266dbfb707e54e0a17944fd"
+        }
+      ]
+    },
+    "GoogleSansFlex": {
+      "preview": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/GoogleSansFlex/GoogleSansFlex.png",
+      "files": [
+        {
+          "filename": "GoogleSansFlex.ttf",
+          "download_url": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/GoogleSansFlex/GoogleSansFlex.ttf",
+          "size_bytes": 487440,
+          "sha256": "1104ba9d11f2e7c35104370564549d2f4329d5626d4a90247a06ad096c72d56c"
+        }
+      ]
+    },
+    "Holiday": {
+      "preview": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/Holiday/Holiday.png",
+      "files": [
+        {
+          "filename": "Holiday.ttf",
+          "download_url": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/Holiday/Holiday.ttf",
+          "size_bytes": 550940,
+          "sha256": "2fc96dc72d0a669590be5908a2e986c03df590addb53619cfe3a380bbfa1cd8d"
+        }
+      ]
+    },
+    "Ios": {
+      "preview": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/Ios/Ios.png",
+      "files": [
+        {
+          "filename": "Ios.ttf",
+          "download_url": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/Ios/Ios.ttf",
+          "size_bytes": 1297644,
+          "sha256": "9e957d9c8f379152a2c795a2b3554d4017b8bd03962ec86343e18a7ad8d59138"
+        }
+      ]
+    },
+    "Linotte": {
+      "preview": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/Linotte/Linotte.png",
+      "files": [
+        {
+          "filename": "Linotte.ttf",
+          "download_url": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/Linotte/Linotte.ttf",
+          "size_bytes": 437756,
+          "sha256": "de2cfbd098a4af007265a277ecfbc7c9b9826236ff42d637502d79e5e14dff02"
+        }
+      ]
+    },
+    "Love": {
+      "preview": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/Love/Love.png",
+      "files": [
+        {
+          "filename": "Love.ttf",
+          "download_url": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/Love/Love.ttf",
+          "size_bytes": 384468,
+          "sha256": "2103eaf358ac62a22059b7883ade192f3e7e2f02e26e3ec25581f7867a5a94fa"
+        }
+      ]
+    },
+    "MangoliRegular": {
+      "preview": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/MangoliRegular/Mangoli-Regular.png",
+      "files": [
+        {
+          "filename": "Mangoli-Regular.ttf",
+          "download_url": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/MangoliRegular/Mangoli-Regular.ttf",
+          "size_bytes": 403880,
+          "sha256": "3682f74df9f9c5cff8bf5325ea51368596165d7e91dff333739ed81be21eae57"
+        }
+      ]
+    },
+    "Marko": {
+      "preview": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/Marko/Marko.png",
+      "files": [
+        {
+          "filename": "Marko.ttf",
+          "download_url": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/Marko/Marko.ttf",
+          "size_bytes": 639068,
+          "sha256": "d17a0ac187f3d041bada4e038cc13efdf5c2f80465a4f7ef3b4998f10552a2e8"
+        }
+      ]
+    },
+    "Marshmallow": {
+      "preview": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/Marshmallow/Marshmallow.png",
+      "files": [
+        {
+          "filename": "Marshmallow.ttf",
+          "download_url": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/Marshmallow/Marshmallow.ttf",
+          "size_bytes": 478324,
+          "sha256": "a43d133c7e24aae4f3384706c248636b272387e948716db78efde27621af7863"
+        }
+      ]
+    },
+    "Marvel": {
+      "preview": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/Marvel/Marvel.png",
+      "files": [
+        {
+          "filename": "Marvel.ttf",
+          "download_url": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/Marvel/Marvel.ttf",
+          "size_bytes": 6487168,
+          "sha256": "b8e06a22d147e297edf8c62ad43df78d6ac199f15a0071c016f88287b235dd38"
+        }
+      ]
+    },
+    "Minecraft": {
+      "preview": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/Minecraft/Minecraft.png",
+      "files": [
+        {
+          "filename": "Minecraft.ttf",
+          "download_url": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/Minecraft/Minecraft.ttf",
+          "size_bytes": 373892,
+          "sha256": "69989c7955de4ec540138ee2e7f1eb9cf075ceae57f978282147a58be71d94a8"
+        }
+      ]
+    },
+    "Ndot": {
+      "preview": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/Ndot/Ndot.png",
+      "files": [
+        {
+          "filename": "Ndot.ttf",
+          "download_url": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/Ndot/Ndot.ttf",
+          "size_bytes": 656000,
+          "sha256": "ad7aa7d0280d8f5aa6b30f742cfb8409433b3ad19f582e280fc657b289273a61"
+        }
+      ]
+    },
+    "NType82-Headline": {
+      "preview": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/NType82-Headline/NType82-Headline.png",
+      "files": [
+        {
+          "filename": "NType82-Headline.ttf",
+          "download_url": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/NType82-Headline/NType82-Headline.ttf",
+          "size_bytes": 412624,
+          "sha256": "05ac673f70ce6ca1742b16b164fce43f4d709741731807a2439b44b8c43087d9"
+        }
+      ]
+    },
+    "NType82-Regular": {
+      "preview": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/NType82-Regular/NType82-Regular.png",
+      "files": [
+        {
+          "filename": "NType82-Regular.ttf",
+          "download_url": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/NType82-Regular/NType82-Regular.ttf",
+          "size_bytes": 412676,
+          "sha256": "81117b3909c91b90d192ddfc78e8ca34a7c5433e745e8829a58c8cac1be622a2"
+        }
+      ]
+    },
+    "Odin": {
+      "preview": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/Odin/Odin.png",
+      "files": [
+        {
+          "filename": "Odin.ttf",
+          "download_url": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/Odin/Odin.ttf",
+          "size_bytes": 742540,
+          "sha256": "3927f8f6a4ef5513a5a4dd6f2bb8188f2e24fe6af9b04e2c6ee552cd0e711615"
+        }
+      ]
+    },
+    "Paris": {
+      "preview": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/Paris/Paris.png",
+      "files": [
+        {
+          "filename": "Paris.ttf",
+          "download_url": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/Paris/Paris.ttf",
+          "size_bytes": 384728,
+          "sha256": "08723620e1f6483692b37670248439f8b253db9e874135bc7bb7e72f538ebf6d"
+        }
+      ]
+    },
+    "Polobrush": {
+      "preview": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/Polobrush/Polobrush.png",
+      "files": [
+        {
+          "filename": "Polobrush.ttf",
+          "download_url": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/Polobrush/Polobrush.ttf",
+          "size_bytes": 421756,
+          "sha256": "c01f126ea90e48b9a48160e12788e6ed863d7e80fcab345ae3513114729e0010"
+        }
+      ]
+    },
+    "ProductSans": {
+      "preview": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/ProductSans/Product_Sans_Regular.png",
+      "files": [
+        {
+          "filename": "Product_Sans_Regular.ttf",
+          "download_url": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/ProductSans/Product_Sans_Regular.ttf",
+          "size_bytes": 413612,
+          "sha256": "831d77609c8887db0b126b69d4f967ba189d2ea84ffa6de799a072bcbaa73d8f"
+        }
+      ]
+    },
+    "ReemKufi": {
+      "preview": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/ReemKufi/ReemKufi.png",
+      "files": [
+        {
+          "filename": "ReemKufi.ttf",
+          "download_url": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/ReemKufi/ReemKufi.ttf",
+          "size_bytes": 651888,
+          "sha256": "5952dae3118cf4114b7ba69be9a75dc21cb8ec758e2538e3ca64a388487f5923"
+        }
+      ]
+    },
+    "Riviera": {
+      "preview": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/Riviera/Riviera.png",
+      "files": [
+        {
+          "filename": "Riviera.ttf",
+          "download_url": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/Riviera/Riviera.ttf",
+          "size_bytes": 373180,
+          "sha256": "13eac7c6be1d33fda7cbe8ed01085d9fd851abd8c17e0aac4891b1ba9e41a544"
+        }
+      ]
+    },
+    "Rosemary": {
+      "preview": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/Rosemary/Rosemary.png",
+      "files": [
+        {
+          "filename": "Rosemary.ttf",
+          "download_url": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/Rosemary/Rosemary.ttf",
+          "size_bytes": 1711944,
+          "sha256": "97910410ce7dce3070e1f1f1b2fabbdb115633e11bd29046c5cd8726edb9b9d0"
+        }
+      ]
+    },
+    "SiswadiArchitect": {
+      "preview": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/SiswadiArchitect/SiswadiArchitect.png",
+      "files": [
+        {
+          "filename": "SiswadiArchitect.ttf",
+          "download_url": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/SiswadiArchitect/SiswadiArchitect.ttf",
+          "size_bytes": 650328,
+          "sha256": "65852ea3520e972b4113e229ac399f7e4d9980ce25b211582ecde3ef6dcab9e5"
+        }
+      ]
+    },
+    "SkateSonic": {
+      "preview": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/SkateSonic/SkateSonic.png",
+      "files": [
+        {
+          "filename": "SkateSonic.ttf",
+          "download_url": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/SkateSonic/SkateSonic.ttf",
+          "size_bytes": 480480,
+          "sha256": "2a9e4fb261a7f5856bdb0cddd9863299cde6951f17afc4a5bf654bbdb7c0750d"
+        }
+      ]
+    },
+    "Stanberry": {
+      "preview": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/Stanberry/Stanberry.png",
+      "files": [
+        {
+          "filename": "Stanberry.ttf",
+          "download_url": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/Stanberry/Stanberry.ttf",
+          "size_bytes": 475372,
+          "sha256": "8a9a4c3563729ec6b797c527a453bcc3b8b70792d5908fa756ca6473dc05c7fd"
+        }
+      ]
+    },
+    "Storopia": {
+      "preview": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/Storopia/Storopia.png",
+      "files": [
+        {
+          "filename": "Storopia.ttf",
+          "download_url": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/Storopia/Storopia.ttf",
+          "size_bytes": 425164,
+          "sha256": "8cedc352709fa84f4247d20e257522becb23fe81ce4c59b5706b527d627a5079"
+        }
+      ]
+    },
+    "TheConfession": {
+      "preview": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/TheConfession/TheConfession.png",
+      "files": [
+        {
+          "filename": "TheConfession.ttf",
+          "download_url": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/TheConfession/TheConfession.ttf",
+          "size_bytes": 394024,
+          "sha256": "47c00f002b764116b9af75739c5eb6e52d9a6e69f07739362b18fdbe97d26c19"
+        }
+      ]
+    },
+    "Ubuntu": {
+      "preview": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/Ubuntu/Ubuntu.png",
+      "files": [
+        {
+          "filename": "Ubuntu.ttf",
+          "download_url": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/Ubuntu/Ubuntu.ttf",
+          "size_bytes": 544044,
+          "sha256": "79aece60f6cd274fb876f3792d12ab802503e98252601a99496fe0d9deea4334"
+        }
+      ]
+    },
+    "WaltDisney": {
+      "preview": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/WaltDisney/WaltDisney.png",
+      "files": [
+        {
+          "filename": "WaltDisney.ttf",
+          "download_url": "https://raw.githubusercontent.com/ThawneRises/FontDist/Master/Fonts/WaltDisney/WaltDisney.ttf",
+          "size_bytes": 593428,
+          "sha256": "9de191ef153c2da23af8939ae7dbdab689d67e568cdadaf78f4e09e4b62e60ef"
+        }
+      ]
+    }
+  }
+}
